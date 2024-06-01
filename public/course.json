@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "img": "../src/assets/images/Rectangle 2-2.png",
+        "img": "./images/Rectangle3.png",
         "title": "Introduction to C Program",
         "description": "Learn the fundamentals of programming with C, a powerful language that forms the foundation for many others. ",
         "price": 24.99,
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "img": "../src/assets/images/Rectangle 2-3.png",
+        "img": "./images/Rectangle4.png",
         "title": "Introduction to Algorithms",
         "description": "Unlock the secrets of efficient problem-solving! This course explores core algorithms and data structures, eq",
         "price": 12,
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "img": "../src/assets/images/Rectangle 2-4.png",
+        "img": "./images/Rectangle5.png",
         "title": "Introduction to C++",
         "description": "Master C++, a powerful language widely used for DSA. Learn about object-oriented programming concepts, advanc",
         "price": 39.99,
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "img": "../src/assets/images/Rectangle 3.png",
+        "img": "./images/Rectangle8.png",
         "title": "Basic Data Structures",
         "description": "Build a strong foundation in data organization! This course demystifies fundamental data structures like arra",
         "price": 14.99,
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "img": "../src/assets/images/Rectangle 2.png",
+        "img": "./images/Rectangle2.png",
         "title": "Introduction to Python",
         "description": "Embrace object-oriented programming with Python, a versatile and beginner-friendly language. This course intr",
         "price": 29.99,
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "img": "../src/assets/images/Rectangle 2-5.png",
+        "img": "./images/Rectangle6.png",
         "title": "Software Engineering",
         "description": "Go beyond coding! This course dives into the principles and practices of software engineering. Learn about re",
         "price": 44.99,
@@ -49,7 +49,7 @@
     },
     {
         "id": 7,
-        "img": "../src/assets/images/Rectangle 3-1.png",
+        "img": "./images/Rectangle9.png",
         "title": "AWS, Cloud Computing",
         "description": "Reach for the cloud! This course introduces Amazon Web Services (AWS), a leading cloud computing platform. Le",
         "price": 34.99,
@@ -57,7 +57,7 @@
     },
     {
         "id": 8,
-        "img": "../src/assets/images/Rectangle 2-1.png",
+        "img": "./images/Rectangle1.png",
         "title": "Database (MySQL)",
         "description": "Master the art of data storage! This course delves into MySQL, a popular relational database management syste",
         "price": 29.99,
@@ -65,7 +65,7 @@
     },
     {
         "id": 9,
-        "img": "../src/assets/images/Rectangle 2-6.png",
+        "img": "./images/Rectangle7.png",
         "title": "Problem-Solving Part 1",
         "description": "Showcase your web development skills to potential employers or clients with a professional portfolio website.",
         "price": 29.99,
